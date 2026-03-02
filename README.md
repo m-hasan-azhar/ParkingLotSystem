@@ -1,1 +1,1 @@
-# ParkingLotSystem
+A Parking Lot Entry Validation System built in Python using Deterministic Finite Automata (DFA). The system enforces valid vehicle entry sequences, performs token validation, tracks parking capacity, logs actions, and rejects invalid transitions while maintaining strict deterministic behavior.
